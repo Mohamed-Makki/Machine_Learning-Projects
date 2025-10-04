@@ -165,7 +165,7 @@ Machine_Learning-Projects/
 
 - **LinkedIn**: [Mohamed Makki](https://www.linkedin.com/in/mohamed-makki-ab5a10302/)
 - **Email**: makki0749@gmail.com
-- **GitHub**: [Mohamed-Makki](https://github.com/Mohamed-Makki)
+- **Kaggle**: [Mohamed Makki](https://www.kaggle.com/mohamedmakkiabdelaal)
 
 ---
 
